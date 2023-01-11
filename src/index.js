@@ -62,5 +62,3 @@ module.exports = function toReadable(number) {
         } ${main[numArray[2]]}`;
     }
 };
-
-console.log(toReadable(333));
